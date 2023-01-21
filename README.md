@@ -9,7 +9,7 @@ This repository includes:
 - Models that were trained on a diverse set of data, ensuring that the platform can handle a wide range of sources and languages.
 - A user-friendly API that allows developers to easily integrate the AI capabilities into their applications.
 
-Getting started
+### Getting started
 To get started with the TrueLink AI repository, you will need to:
 
 - Clone the repository to your local machine.
